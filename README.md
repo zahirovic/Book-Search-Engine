@@ -27,6 +27,7 @@ The live site can be found [here](https://book-search-engine-mz.herokuapp.com/) 
 - [npm docs on creating a Package.JSON file](https://docs.npmjs.com/creating-a-package-json-file)
 - [How to Deploy with React](https://create-react-app.dev/docs/deployment/)
 - [Bootstrap](https://getbootstrap.com/)
+- [Heroku on specifying Node version](https://devcenter.heroku.com/articles/nodejs-support#specifying-a-node-js-version)
 
 ## Features
 - Javascript
